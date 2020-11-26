@@ -440,8 +440,8 @@ The logs on Security Onion have been reset, giving you a clean slate for the cas
 ## Case Scenario
 
 You will use all the skills you’ve learned in this lab so far to solve the following case based on a real hack called Operation
-Aurora. First, watch [this video](https://en.wikipedia.org/wiki/Operation_Aurora) or
-read [this Wikipedia article](https://www.youtube.com/watch?v=T2DqLj1nQkc) about Operation Aurora, which was an attack on Google
+Aurora. First, watch [this video](https://www.youtube.com/watch?v=T2DqLj1nQkc) or
+read [this Wikipedia article](https://en.wikipedia.org/wiki/Operation_Aurora) about Operation Aurora, which was an attack on Google
 and other companies. Then, read the following scenario:
 
 
@@ -557,7 +557,7 @@ coveting, Alex clicks on the link. Claire is ready to strike…
     {% include lab_question.html question="What type of file was it, according to the magic number and to the <code>file</code> command?" %}
     {% include lab_question.html question="What was the MD5sum of this file?" %}
 
-6.  Search for a hash of the downloaded file on [Virustotal.com](Virustotal.com) and on [hybrid-analysis.com](hybrid-analysis.com).
+6.  Search for a hash of the downloaded file on [virustotal.com](https://virustotal.com) or [hybrid-analysis.com](https://hybrid-analysis.com).
 
     {% include lab_question.html question='What type of file is this, according to hybrid-analysis and Virustotal?' %}
 
